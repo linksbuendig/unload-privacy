@@ -1,4 +1,4 @@
-[german version](https://github.com/linksbuendig/unload_privacy/blob/main/README_DE.md)
+[german version](https://github.com/linksbuendig/unload-privacy/blob/main/README_DE.md)
 
 # Privacy Policy — UnLoad
 
